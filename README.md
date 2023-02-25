@@ -1,9 +1,7 @@
 # cave-devn-pygame
 This is a dungeon crawler type game created in Python using Pygame. The player has to venture through 3 levels, looking for chest and gearing then has fight a boss on the third level. This game contains multiple maps, loot RNG, TMX layer maps and enemy AI.
 
-This is my final project for Grade 10 Computer Science Gifted.
-
-### PLEASE DO NOT EDIT ANY FILE. IF EDITS OCCUR, THE PROGRAM MAY CRASH ON START.
+This is my final project for Grade 10 Computer Science AP.
 
 #### TO PLAY THE GAME YOU NEED TO HAVE INSTALLED:
 	1. Python 3.0.1 or above
@@ -16,5 +14,4 @@ This is my final project for Grade 10 Computer Science Gifted.
 	- E to interact with arrows
 
 This game is created by David Daniliuc, PLEASE DO NOT SHARE THE PROGRAM WITHOUT MY PERMISSION.
-
-*Contact me at: victorydan123@gmail.com*
+![Editor](https://user-images.githubusercontent.com/107334013/221323643-d5ced808-013f-4e07-a581-fce092d6deb1.gif)
