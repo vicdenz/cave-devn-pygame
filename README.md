@@ -14,4 +14,4 @@ This is my final project for Grade 10 Computer Science AP.
 	- E to interact with arrows
 
 This game is created by David Daniliuc, PLEASE DO NOT SHARE THE PROGRAM WITHOUT MY PERMISSION.
-![Editor](https://user-images.githubusercontent.com/107334013/221323643-d5ced808-013f-4e07-a581-fce092d6deb1.gif)
+<img width="638" alt="Screen Shot 2022-12-27 at 1 10 19 AM" src="https://user-images.githubusercontent.com/107334013/221323675-692ecf73-55a3-400a-ab2b-aa6078d9b596.png">
